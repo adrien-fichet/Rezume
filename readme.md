@@ -101,6 +101,10 @@ Project Link: [https://github.com/nanup/Rezume](https://github.com/nanup/Rezume)
 - Based on [sb2nov/resume](https://github.com/sb2nov/resume/)
 - [Choose an Open Source License](https://choosealicense.com)
 
+## Compiling with typst
+
+Run the following command: `typst.exe rezume.typ`
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
